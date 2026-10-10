@@ -1,0 +1,1 @@
+`text`: synthetic opportunity message. `label`: synthetic demonstration label (Suspicious or Likely Legitimate). This is not a verified or representative real-world dataset.
